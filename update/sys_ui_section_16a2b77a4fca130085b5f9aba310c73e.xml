@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="16a2b77a4fca130085b5f9aba310c73e" sys_domain="global" table="x_227277_zombie_wo_zombie_player" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>b3d2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zombie_player_location</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>37d2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zombie_player_alive</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>b7d2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>3bd2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>bbd2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>3fd2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>bfd2f3be4fca130085b5f9aba310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>33d2f3be4fca130085b5f9aba310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>b3d2f3be4fca130085b5f9aba310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>37d2f3be4fca130085b5f9aba310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>b7d2f3be4fca130085b5f9aba310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:15:00</sys_created_on>
+            <sys_id>3bd2f3be4fca130085b5f9aba310c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:15:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zombie_player_ready</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-22 12:08:36</sys_created_on>
+            <sys_id>9a28f8e04f12130085b5f9aba310c7ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_player" sys_domain="global" view="Default view">16a2b77a4fca130085b5f9aba310c73e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-22 12:08:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_227277_zombie_wo_zombie_player</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:14:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16a2b77a4fca130085b5f9aba310c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_227277_zombie_wo_zombie_player</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Zombie World" source="x_227277_zombie_wo">f3ee962e4f02130085b5f9aba310c714</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Zombie World">f3ee962e4f02130085b5f9aba310c714</sys_scope>
+            <sys_update_name>sys_ui_section_16a2b77a4fca130085b5f9aba310c73e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:14:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

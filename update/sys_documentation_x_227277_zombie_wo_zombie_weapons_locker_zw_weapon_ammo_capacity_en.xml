@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="zw_weapon_ammo_capacity" label="zw Weapon  Ammo Capacity" language="en" table="x_227277_zombie_wo_zombie_weapons_locker">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>zw_weapon_ammo_capacity</element>
+            <help/>
+            <hint/>
+            <label>zw Weapon  Ammo Capacity</label>
+            <language>en</language>
+            <name>x_227277_zombie_wo_zombie_weapons_locker</name>
+            <plural>zw Weapon  Ammo Capacities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 19:16:35</sys_created_on>
+            <sys_id>59b36ff44f9e130085b5f9aba310c72e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>zw Weapon  Ammo Capacity</sys_name>
+            <sys_package display_value="Zombie World" source="x_227277_zombie_wo">f3ee962e4f02130085b5f9aba310c714</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Zombie World">f3ee962e4f02130085b5f9aba310c714</sys_scope>
+            <sys_update_name>sys_documentation_x_227277_zombie_wo_zombie_weapons_locker_zw_weapon_ammo_capacity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 19:16:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

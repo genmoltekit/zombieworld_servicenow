@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Zombie Player" max_length="40" name="x_227277_zombie_wo_zombie_player" sizeclass="3" type="collection">
+        <element default="true" label="Zombie Player Alive" max_length="40" name="zombie_player_alive" type="boolean"/>
+        <element default="0" label="Zombie Player Location" max_length="20" name="zombie_player_location" type="decimal"/>
+        <element label="Zombie Player Ready" max_length="40" name="zombie_player_ready" type="boolean"/>
+    </element>
+</database>

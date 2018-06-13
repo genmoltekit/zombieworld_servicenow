@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Zombie Entity" max_length="40" name="x_227277_zombie_wo_zombie_entity" sizeclass="1" type="collection">
+        <element default="True" label="Zombie Entity Alive" max_length="40" name="zombie_alive" type="boolean"/>
+        <element default="100" label="Zombie Entity Location" max_length="20" name="zombie_entity_location" type="decimal"/>
+        <element label="Zombie Entity Ready" max_length="40" name="zombie_entity_ready" type="boolean"/>
+        <element default="10" label="Zombie Hitpoints" max_length="20" name="zombie_hitpoints" type="decimal"/>
+        <element label="Zombie is Big" max_length="40" name="zombie_is_big" type="boolean"/>
+    </element>
+</database>

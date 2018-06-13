@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Zombie World Table" max_length="40" name="x_227277_zombie_wo_zombie_world_table" sizeclass="4" type="collection">
+        <element label="Zombie Entity" max_length="32" name="zombie_entity" reference="x_227277_zombie_wo_zombie_entity" type="reference"/>
+        <element label="Zombie Player" max_length="32" name="zombie_player" reference="x_227277_zombie_wo_zombie_player" type="reference"/>
+        <element label="Zombie World Initialized" max_length="40" name="zombie_world_initialized" type="boolean"/>
+        <element default="true" label="zw player is alive" max_length="40" name="zw_player_is_alive" type="boolean"/>
+        <element label="zw Player is Ready" max_length="40" name="zw_player_is_ready" type="boolean"/>
+        <element default="0" label="zw Player Location" max_length="20" name="zw_player_location" type="decimal"/>
+        <element default="true" label="zw zombie is alive" max_length="40" name="zw_zombie_is_alive" type="boolean"/>
+        <element label="zw Zombie is Ready" max_length="40" name="zw_zombie_is_ready" type="boolean"/>
+        <element default="100" label="zw Zombie Location" max_length="20" name="zw_zombie_location" type="decimal"/>
+    </element>
+</database>

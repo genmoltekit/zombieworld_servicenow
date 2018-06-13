@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="1f8e57ee4f82130085b5f9aba310c75c" sys_domain="global" table="x_227277_zombie_wo_zombie_world_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>b24437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>364437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>b64437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>3a4437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_zombie_is_alive</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>ba4437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_player_is_alive</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>3e4437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_zombie_location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>be4437fe4fca130085b5f9aba310c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_zombie_is_ready</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>324437fe4fca130085b5f9aba310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_player_is_ready</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>b24437fe4fca130085b5f9aba310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zw_player_location</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 15:21:12</sys_created_on>
+            <sys_id>364437fe4fca130085b5f9aba310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227277_zombie_wo_zombie_world_table" sys_domain="global" view="Default view">1f8e57ee4f82130085b5f9aba310c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 15:21:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_227277_zombie_wo_zombie_world_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 19:07:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f8e57ee4f82130085b5f9aba310c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_227277_zombie_wo_zombie_world_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Zombie World" source="x_227277_zombie_wo">f3ee962e4f02130085b5f9aba310c714</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Zombie World">f3ee962e4f02130085b5f9aba310c714</sys_scope>
+            <sys_update_name>sys_ui_section_1f8e57ee4f82130085b5f9aba310c75c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 19:07:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

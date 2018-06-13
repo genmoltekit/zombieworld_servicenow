@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 14:33:47</sys_created_on>
+        <sys_id>66df92ae4f02130085b5f9aba310c725</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227277_zombie_wo_zombie_entity.x_227277_zombie_wo.user</sys_name>
+        <sys_package display_value="Zombie World" source="x_227277_zombie_wo">f3ee962e4f02130085b5f9aba310c714</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zombie World">f3ee962e4f02130085b5f9aba310c714</sys_scope>
+        <sys_security_acl display_value="x_227277_zombie_wo_zombie_entity">eadf92ae4f02130085b5f9aba310c722</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_66df92ae4f02130085b5f9aba310c725</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 14:33:47</sys_updated_on>
+        <sys_user_role display_value="x_227277_zombie_wo.user" name="x_227277_zombie_wo.user">7fee566e4f02130085b5f9aba310c7bf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Zombie Weapons Locker" max_length="40" name="x_227277_zombie_wo_zombie_weapons_locker" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="15" label="zw Weapon  Ammo Capacity" max_length="20" name="zw_weapon_ammo_capacity" type="decimal"/>
+        <element default="0" label="zw Weapon Ammo Count" max_length="20" name="zw_weapon_ammo_count" type="decimal"/>
+        <element label="zw Weapon is Loaded" max_length="40" name="zw_weapon_is_loaded" type="boolean"/>
+        <element default="no name" label="zw Weapon Name" max_length="20" name="zw_weapon_name" type="string"/>
+        <element label="zw Weapon Owner" max_length="32" name="zw_weapon_owner" reference="x_227277_zombie_wo_zombie_player" type="reference"/>
+        <element label="zw Weapon Ready" max_length="40" name="zw_weapon_ready" type="boolean"/>
+        <element default="true" label="zw Weapon Safety On" max_length="40" name="zw_weapon_safety_on" type="boolean"/>
+        <element default="pistol" label="zw weapon type" max_length="20" name="zw_weapon_type" type="string"/>
+        <index name="index">
+            <element name="zw_weapon_owner"/>
+        </index>
+    </element>
+</database>

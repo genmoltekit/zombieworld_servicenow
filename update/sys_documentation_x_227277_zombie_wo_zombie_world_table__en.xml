@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Zombie World Table" language="en" table="x_227277_zombie_wo_zombie_world_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Zombie World Table</label>
+            <language>en</language>
+            <name>x_227277_zombie_wo_zombie_world_table</name>
+            <plural>Zombie World Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 14:29:49</sys_created_on>
+            <sys_id>9cfe966e4f02130085b5f9aba310c7a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Zombie World Table</sys_name>
+            <sys_package display_value="Zombie World" source="x_227277_zombie_wo">f3ee962e4f02130085b5f9aba310c714</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Zombie World">f3ee962e4f02130085b5f9aba310c714</sys_scope>
+            <sys_update_name>sys_documentation_x_227277_zombie_wo_zombie_world_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 14:29:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
